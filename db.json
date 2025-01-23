@@ -36,6 +36,13 @@
       "id": 5
     }
   ],
-  "thongtintaikhoan": [],
+  "thongtintaikhoan": [
+    {
+        "taikhoan": "tranphuocduc",
+        "matkhau": "1234756789",
+        "ten": "Trần Phước Đức",
+        "id": 1
+    }
+  ],
   "todo": []
 }
