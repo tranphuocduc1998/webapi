@@ -1,0 +1,41 @@
+{
+  "danhsachchucnang": [
+    {
+      "name": "Chức năng tự phát triển",
+      "url": "ThemeScreen",
+      "type": 1,
+      "logo": "testing.png",
+      "id": 1
+    },
+    {
+      "name": "Chức năng liên kết website",
+      "url": "https://reactnavigation.org/docs/stack-navigator/",
+      "type": 2,
+      "logo": "internet.png",
+      "id": 2
+    },
+    {
+      "name": "Chức năng thư viện hình ảnh",
+      "url": "LibaryScreen",
+      "type": 1,
+      "logo": "testing.png",
+      "id": 3
+    },
+    {
+      "name": "Chức năng quét QrCode và BarCode",
+      "url": "QrCodeScanScreen",
+      "type": 1,
+      "logo": "testing.png",
+      "id": 4
+    },
+    {
+      "name": "Chức năng ghi chú",
+      "url": "ThemeScreen",
+      "type": 1,
+      "logo": "testing.png",
+      "id": 5
+    }
+  ],
+  "thongtintaikhoan": [],
+  "todo": []
+}
